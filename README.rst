@@ -27,4 +27,4 @@ four PNotify boxes floating in the top right of the screen.
 .. image:: pnotify.png
 
 The stuff the Python coder needs to worry about is in main.py and notifications.py, everything else is pretty much
-framework static framework and support libraries.
+static framework and support libraries.
